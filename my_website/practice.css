@@ -1,0 +1,24 @@
+p.bluetext{
+    color:blue;
+}
+p.redtext{
+    color:red;
+}
+.important{
+    font-style: italic;
+}
+p#mine{
+    font-weight: bold;
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color:black;
+}
+a:hover{
+    color:gray;
+}
+a:active{
+    color:white;
+}
